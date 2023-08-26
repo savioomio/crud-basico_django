@@ -1,2 +1,2 @@
 # crud-basico
- CRUD basico para meus estudos de python e django 
+ CRUD basico para meus estudos de django 
